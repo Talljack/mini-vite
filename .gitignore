@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.cpuprofile
+*.local
+*.log
+/packages/vite/LICENSE
+dist
+dist-ssr
+explorations
+node_modules
